@@ -1,2 +1,1 @@
-# Projects
-Data Analyst Projects
+Power BI Zomato Project
